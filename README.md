@@ -1,10 +1,10 @@
 
 
-Blurry-Loading
+# Blurry-Loading
 
 ## Live Demo
 
-[Live Demo Link](https://meri-mg.github.io/Hidden-Search-Widget-Project-04/)
+[Live Demo Link](https://meri-mg.github.io/Blurry-Loading-Project-05/)
 
 ## Built with
 - CSS
