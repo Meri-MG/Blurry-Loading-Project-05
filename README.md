@@ -1,6 +1,6 @@
 
 
-# Blurry-Loading
+# Blurry-Loading-Project-05
 
 ## Live Demo
 
